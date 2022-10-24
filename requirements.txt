@@ -1,1 +1,4 @@
+# excel_import_export
+openpyxl
+# currency_rate_update
 pandas
