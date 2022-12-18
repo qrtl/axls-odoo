@@ -1,4 +1,4 @@
-FROM rfhk/odoo:14.0
+FROM rfhk/odoo:16.0
 LABEL maintainer="Quartile Limited <info@quartile.co>"
 
 # Switch back to root since 'odoo' is set in the rfhk/odoo image.
