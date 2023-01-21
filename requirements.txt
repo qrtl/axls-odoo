@@ -1,4 +1,6 @@
+# base_view_inheritance_extension
+astor
 # excel_import_export
 openpyxl
-# ax_product_if, currency_rate_update_mizuho
+# ax_product_if
 pandas==0.25.3  # latest available version compatible with python-dateutil 2.7.3
